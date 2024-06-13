@@ -36,10 +36,10 @@ public class Config {
     public String toString() {
     	
         return "CONFIG:\n\n" 
-        			+ "Servidor: '" + servidor + "\n" 
-        			+ "Puerto: " + puerto + "\n"
-                + "Usuario: " + usuario + "\n" 
-        			+ "Contraseña: " + contraseña;
+        	+ "Servidor: '" + servidor + "\n" 
+		+ "Puerto: " + puerto + "\n"
+		+ "Usuario: " + usuario + "\n" 
+		+ "Contraseña: " + contraseña;
         
     }
     
